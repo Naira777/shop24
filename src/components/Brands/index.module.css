@@ -1,0 +1,46 @@
+
+
+.main {
+
+  height: 8000px;
+  
+  
+  }
+
+
+.content {
+
+    height: auto;
+    width: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-bottom: 100px;
+
+    
+    }
+
+    .vector {
+        height: 14px;
+        width: 14px;
+        margin-top: 22px;
+        margin-left: 10px;
+      }
+      
+.text {
+        font-family: "Mardoto";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 21px;
+        color: #212121;
+        margin-left: 10px;
+      }
+ 
+    
+.box {
+
+
+
+
+}
